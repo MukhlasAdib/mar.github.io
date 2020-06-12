@@ -4,4 +4,6 @@
 
 Repository : [CARLA-2DBBox](https://github.com/MukhlasAdib/CARLA-2DBBox)
 
+<img src="099163.png" alt="Result example">
+
 This repo contains Python program that can be used to extract groundtruth 2D bounding boxes from a sensor point of view in CARLA Simulator. I made this because carla simulator doesn't provide the direct function to do this. The bounding boxes can be used for image detection training or any other task and it's easy to use. 
